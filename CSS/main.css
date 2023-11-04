@@ -74,7 +74,7 @@ nav .nav-right-section img{
 
 main{
     /* background-color: blueviolet; */
-    margin-top: 200px;
+    margin-top: 10%;
     text-align: center;
 }
 
@@ -97,6 +97,7 @@ main .main-input {
     margin: 0 auto;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 main .main-input-container {
